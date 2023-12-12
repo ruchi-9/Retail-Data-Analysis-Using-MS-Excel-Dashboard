@@ -1,5 +1,8 @@
 # Vrinda Store Data Analysis 
-This repository give the anyalsis the Vrinda Stroe data & share the insight information 
+This repository give the anyalsis the Vrinda Stroe data & share the insight information.
+
+<img width="931" alt="Screenshot 2023-12-12 171800" src="https://github.com/ruchi-9/Vrinda-Store-Data-Analysis/assets/42173689/76ec4c5d-9ec6-45ff-9d83-88cfee3a9630">
+
 # Question
 1. Compare the Sales & orders using single chart.
 2. Which month got the highest sales and orders? 
